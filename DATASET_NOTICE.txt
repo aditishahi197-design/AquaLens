@@ -1,0 +1,7 @@
+Dataset source intended for this project:
+https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
+Dataset is not bundled in this ZIP. Download it from Kaggle after reviewing the current dataset license and terms. The source page may require a Kaggle account. Do not assume that a notebook, mirror, or third-party repository license automatically covers the dataset itself.
+
+Expected filename: water_potability.csv
+Place at: data/raw/water_potability.csv
